@@ -1,0 +1,131 @@
+.navbar img
+{
+    height: 50px;
+    width: 200px;
+    
+}
+.nav
+{
+    background-color: white;
+    font-weight: bold;
+}
+.image
+{
+    height: 600px;
+}
+.bv
+{
+    background-image: url(img/bv.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    text-align: center;
+    
+}
+.t1 img
+{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    
+   
+    
+}
+.te
+{
+    color: #24572C;
+    font-weight: bolder !important;
+}
+.tee 
+{
+    font-size: xx-large;
+    color: #24572C;
+}
+.t4
+{
+    font-size: x-large;
+}
+.sec table
+{
+    align-items: left;
+    border: 3px solid black;
+    background-color: aliceblue;
+    padding: 50px;
+    margin-left: 50px;
+    
+    
+}
+
+.t
+{
+    display: flex;
+}
+.t2 img
+{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    
+}
+.our
+{
+    font-weight: lighter;
+    color: #24572C;
+    font-size: 36px;
+    margin: 0;
+}
+.bold
+{
+    font-weight: bolder !important;
+    color: #24572C;
+}
+.read
+{
+    width: 50%;
+    padding: 100px;
+    
+}
+.btn
+{
+    margin-left: 125px;
+    border-radius: 50px;
+    background-color: #24572C !important;
+    width: 150px;
+    
+
+    
+}
+.btn:hover
+{
+    background-color: aliceblue !important;
+    color:  #24572C !important  ;
+    
+}
+.f
+{
+    display: flex;
+    margin-top: 80px;
+}
+.bb img 
+{
+    margin-left: 100px;
+    height: 600px;
+    
+   
+}
+.sec1
+{
+    display: flex !important;
+    text-align: center;
+    border-radius: 10px;
+    width: 50px;
+    
+}
+.ty
+{
+    padding: 1.5rem;
+    background: #fff;
+    box-shadow: 0 10px 20px -10px rgb(0 0 0 / 20%);
+}
+    
+
